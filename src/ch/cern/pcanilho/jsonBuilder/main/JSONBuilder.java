@@ -23,9 +23,9 @@ public abstract class JSONBuilder {
 			}
 
 		Map<String, String> params = new HashMap<String, String>();
-		params.put("username", "sa");
-		params.put("password", "Nk8Ptk76");
-		params.put("database", "NQDI_RESULTS");
+		params.put("username", "...");
+		params.put("password", "...");
+		params.put("database", "...");
 		params.put("server", "srv-0058-momo-s.cern.ch");
 
 		// System.out.println(FileHandler.loadQuery("queries/query_rscp.sql"));
