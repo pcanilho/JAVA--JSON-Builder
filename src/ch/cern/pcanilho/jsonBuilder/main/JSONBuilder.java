@@ -26,7 +26,7 @@ public abstract class JSONBuilder {
 		params.put("username", "...");
 		params.put("password", "...");
 		params.put("database", "...");
-		params.put("server", "srv-0058-momo-s.cern.ch");
+		params.put("server", "...");
 
 		// System.out.println(FileHandler.loadQuery("queries/query_rscp.sql"));
 
